@@ -1,1 +1,1 @@
-Code take from https://github.com/obble/modui.
+Code taken from https://github.com/obble/modui.
