@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: modtip
+## Notes: Tooltip addon - credits obble/modernist.
+
+modtip.lua
